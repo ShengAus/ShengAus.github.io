@@ -94,6 +94,10 @@ Siqi Sun, Yingying Sun, Andrew S. Kinsela, Yunyi Zhu, Nikky LaBranche, **Sheng C
 </div>
 </div>
 
+# 📖 Educations
+- *2013.07 - 2025.02*, Master of Philosophy, Machine Learning / Medical Computer Vision, University of Sydney
+- *2019.02 - 2023.02*, Bachelor of Advanced Computing (First Class Honours, WAM 80+), University of Sydney
+
 
 # 🎖 Honors and Awards
 - *2024.12* Best Student Paper in ICONIP 2024. 
