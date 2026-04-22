@@ -19,13 +19,19 @@ redirect_from:
 
 Hi, I’m **Sheng Chen**.
 
-**Machine Learning Developer | Applied AI | Scientific Software | Time-Series Modeling**
+<p style="margin: 0.2em 0 1em 0;">
+  Machine Learning Developer&nbsp;|&nbsp;Applied AI&nbsp;|&nbsp;Scientific Software&nbsp;|&nbsp;Time-Series Modeling
+</p>
 
-I am a Machine Learning Developer at [UNSW Water Research Centre](https://www.unsw.edu.au/research/wrc), where I build software and machine learning solutions for engineering and scientific applications. My work spans reverse osmosis system software, industrial data workflows, time-series modelling, and research in medical computer vision. I enjoy translating technical ideas into practical, reliable tools for real-world problems.
+I am a Machine Learning Developer at [UNSW Water Research Centre](https://www.unsw.edu.au/research/wrc), where I build software and machine learning solutions for engineering and scientific applications.
+
+<span class='anchor' id='news'></span>
 
 # 🔥 News
 - *2026.01* — The RO System Design and Projection Software was delivered to OriginWater, contributing to a company-owned patented solution.
 - *2024.12* — Our paper was awarded **Best Student Paper** at **ICONIP 2024**.
+
+<span class='anchor' id='projects'></span>
 
 # 💻 Projects
 
@@ -78,6 +84,8 @@ A few-shot learning pipeline for thigh muscle segmentation on T1-weighted MRI wi
 - Developed automatic mask generation and refinement steps for longitudinal analysis.
 - Targeted muscle extraction while excluding intra-muscular fat for practical medical imaging use.
 
+<span class='anchor' id='publications'></span>
+
 # 📝 Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EST</div><img src='images/EST.jpg' alt="EST paper" width="100%"></div></div>
@@ -110,10 +118,14 @@ Siqi Sun, Yingying Sun, Andrew S. Kinsela, Yunyi Zhu, Nikky LaBranche, **Sheng C
 </div>
 </div>
 
+<span class='anchor' id='honors-and-awards'></span>
+
 # 🎖 Honors and Awards
 - *2024.12* — Best Student Paper, ICONIP 2024
 - *2023.01* — First Class Honours, University of Sydney
 - *2022, 2023* — Dean’s List, University of Sydney
+
+<span class='anchor' id='education'></span>
 
 # 📖 Education
 - *2023.07 - 2025.02* — **Master of Philosophy**, Machine Learning / Medical Computer Vision, University of Sydney
