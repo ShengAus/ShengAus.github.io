@@ -23,6 +23,10 @@ Machine learning | Applied AI | Scientific Software | Time-Series Modeling
 
 I am working as a Machine Learning Developer at [UNSW](https://www.unsw.edu.au/research/wrc) with experience in applied AI, scientific software, and data-driven engineering systems. My work spans reverse osmosis software, time-series modeling, and research in medical computer vision. I enjoy building practical tools that connect machine learning with real-world technical problems.
 
+# 🔥 News
+- *2026.01*: &nbsp;🎉🎉 The developed RO System Design and Projection Software has been delivered to OriginWater, leading to a company-owned patented solution. 
+- *2024.12*: &nbsp;🎉🎉 Our paper has been accepted as the Best Student Paper in ICONIP 2024 
+
 # Projects
 
 ### [LangChain RO Knowledge Assistant](https://github.com/ShengAus/LangChain-RO-Knowledge-Assistant)
