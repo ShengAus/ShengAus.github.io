@@ -17,6 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+Hi, this is Sheng. 
+
+Machine learning | Applied AI | Scientific Software | Time-Series Modeling
+
 I am working as a Machine Learning Developer at [UNSW](https://www.unsw.edu.au/research/wrc) with experience in applied AI, scientific software, and data-driven engineering systems. My work spans reverse osmosis software, time-series modeling, and research in medical computer vision. I enjoy building practical tools that connect machine learning with real-world technical problems.
 
 # Projects
@@ -71,7 +75,7 @@ A few-shot learning pipeline for thigh muscle segmentation on T1-weighted MRI wi
 Siqi Sun, Yingying Sun, Andrew S. Kinsela, Yunyi Zhu, Nikky LaBranche, **Sheng Chen**, T. David Waite
 
 - Investigates how engineered stone dust influence epithelial-to-mesenchymal transition (EMT), a critical biological process linked to respiratory diseases such as silicosis and COPD. We combined detailed material characterization with interpretable machine learning to uncover key drivers of dust-induced cellular responses.
-- Accepted by Environmental Science & Technology (EST), a leading journal in environmental science and engineering. 
+- Accepted by **Environmental Science & Technology (EST)**, a leading journal in environmental science and engineering. 
 </div>
 </div>
 
@@ -86,7 +90,7 @@ Siqi Sun, Yingying Sun, Andrew S. Kinsela, Yunyi Zhu, Nikky LaBranche, **Sheng C
 [**Project**](https://github.com/ShengAus/DirGeo_Net/tree/master)
 - Developed a deep learning method to estimate reliable diffusion tensor imaging metrics from only 6 diffusion gradient directions by integrating diffusion-gradient encoding and geometry-constrained learning.
 - More interpretable and reliable results through physical-informed deep learning methods.
-- Awarded as the Best Student Paper in ICONIP2024
+- Awarded as the **Best Student Paper** in ICONIP2024
 </div>
 </div>
 
