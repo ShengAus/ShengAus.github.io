@@ -23,7 +23,7 @@ Hi, I’m **Sheng Chen**.
   Machine Learning Developer&nbsp;|&nbsp;Applied AI&nbsp;|&nbsp;Scientific Software&nbsp;|&nbsp;Time-Series Modeling
 </p>
 
-I am a Machine Learning Developer at [UNSW Water Research Centre](https://www.unsw.edu.au/research/wrc), where I build software and machine learning solutions for engineering and scientific applications.
+I am a Machine Learning Developer at [UNSW Water Research Centre](https://www.unsw.edu.au/research/wrc), where I build software and machine learning solutions for engineering and scientific applications. I enjoy building practical tools that connect machine learning with real-world technical problems.
 
 <span class='anchor' id='news'></span>
 
