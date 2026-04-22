@@ -17,42 +17,52 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, this is Sheng. 
+Hi, I’m **Sheng Chen**.
 
-Machine learning | Applied AI | Scientific Software | Time-Series Modeling
+**Machine Learning Developer | Applied AI | Scientific Software | Time-Series Modeling**
 
-I am working as a Machine Learning Developer at [UNSW](https://www.unsw.edu.au/research/wrc) with experience in applied AI, scientific software, and data-driven engineering systems. My work spans reverse osmosis software, time-series modeling, and research in medical computer vision. I enjoy building practical tools that connect machine learning with real-world technical problems.
+I am a Machine Learning Developer at [UNSW Water Research Centre](https://www.unsw.edu.au/research/wrc), where I build software and machine learning solutions for engineering and scientific applications. My work spans reverse osmosis system software, industrial data workflows, time-series modelling, and research in medical computer vision. I enjoy translating technical ideas into practical, reliable tools for real-world problems.
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 The developed RO System Design and Projection Software has been delivered to OriginWater, leading to a company-owned patented solution. 
-- *2024.12*: &nbsp;🎉🎉 Our paper has been accepted as the Best Student Paper in ICONIP 2024 
+- *2026.01* — The RO System Design and Projection Software was delivered to OriginWater, contributing to a company-owned patented solution.
+- *2024.12* — Our paper was awarded **Best Student Paper** at **ICONIP 2024**.
 
-# Projects
+# 💻 Projects
+
+### [RO System Design and Projection Software](https://github.com/ShengAus/ROS_Design_Projection_Software_Demo)
+Desktop reverse osmosis design and projection software for engineering workflows.
+
+- Led the end-to-end software implementation of a reverse osmosis design and performance projection tool.
+- Developed Python backend modules, engineering calculation workflows, and structured reporting outputs.
+- Designed reusable program components and data structures to support system design, performance estimation, and maintainable delivery.
 
 ### [LangChain RO Knowledge Assistant](https://github.com/ShengAus/LangChain-RO-Knowledge-Assistant)
 A lightweight FastAPI application for question answering over local reverse osmosis notes.
 
 - Built a LangChain-based workflow for document loading, chunking, retrieval, query normalization, and conservative support checks.
-- Integrated optional OpenAI-compatible answer generation with deterministic fallback behavior when no API key was configured.
+- Integrated optional OpenAI-compatible answer generation with deterministic fallback behaviour when no API key was configured.
 - Used Pydantic request and response models to return answers together with supporting source files.
 
-### [RO System Design and Projection Software](https://github.com/ShengAus/ROS_Design_Projection_Software_Demo)
-Desktop reverse osmosis design and projection software for engineering workflows.
-- Led the end-to-end software implementation of a reverse osmosis design and performance projection tool.
-- Developed Python backend modules, engineering calculation workflows, and structured reporting outputs.
-- Designed reusable program components and data structures to support system design, performance estimation, and maintainable delivery.
+### Baowu RO Data Pipeline and Modelling Preparation
+An industrial data engineering project for reverse osmosis plant analytics.
+
+- Developed a Phase 1 data ingestion and transformation pipeline integrating semi-structured plant records and raw sensor logs into modelling-ready datasets.
+- Implemented timestamp alignment, schema harmonisation, unit conversion, outlier handling, feature engineering, and hourly resampling.
+- Produced validated datasets and structured outputs to support downstream modelling, monitoring, and industrial analysis.
 
 ### MCDI Data Automation and Modelling Support
-A developing R&D project in membrane capacitive deionization (MCDI), focused on data workflow automation and ML-oriented analysis.
+An R&D project in membrane capacitive deionization (MCDI), focused on data workflow automation and ML-oriented analysis.
+
 - Contributed to early-stage data organisation and automation workflows for experimental and operational datasets.
 - Supported reproducible processing pipelines to improve downstream modelling and digital-twin-oriented analysis.
 - Explored how machine learning workflows could support performance modelling and future system optimisation.
 
 ### [Unsupervised dMRI Artifact Detection](https://github.com/ShengAus/UdAD)
 A research project on improving the reliability of diffusion MRI data through unsupervised artifact detection.
+
 - Developed a deep learning framework using angular resolution enhancement and cycle consistency learning.
 - Focused on identifying corrupted or unreliable diffusion MRI samples without requiring manual labels.
-- Later published at **AJCAI 2024**.
+- Published at **AJCAI 2024**.
 
 ### [DirGeo-DTI](https://github.com/ShengAus/DirGeo_Net)
 A deep learning method for estimating reliable diffusion tensor imaging metrics from only 6 diffusion gradient directions.
@@ -68,23 +78,23 @@ A few-shot learning pipeline for thigh muscle segmentation on T1-weighted MRI wi
 - Developed automatic mask generation and refinement steps for longitudinal analysis.
 - Targeted muscle extraction while excluding intra-muscular fat for practical medical imaging use.
 
+# 📝 Selected Publications
 
-# Selected Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EST</div><img src='images/EST.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EST</div><img src='images/EST.jpg' alt="EST paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Identification of Key Physicochemical Characteristics Which Influence Epithelial-to-Mesenchymal Transition of Lung Cells after Exposure to Engineered and Natural Stone Dusts via a Hybrid Machine Learning Approach](https://pubs.acs.org/doi/abs/10.1021/acs.est.5c14999)
 
 Siqi Sun, Yingying Sun, Andrew S. Kinsela, Yunyi Zhu, Nikky LaBranche, **Sheng Chen**, T. David Waite
 
-- Investigates how engineered stone dust influence epithelial-to-mesenchymal transition (EMT), a critical biological process linked to respiratory diseases such as silicosis and COPD. We combined detailed material characterization with interpretable machine learning to uncover key drivers of dust-induced cellular responses.
-- Accepted by **Environmental Science & Technology (EST)**, a leading journal in environmental science and engineering. 
+- Investigates how engineered and natural stone dust influence epithelial-to-mesenchymal transition (EMT), a biological process linked to respiratory diseases such as silicosis and COPD.
+- Combines detailed material characterisation with interpretable machine learning to identify key drivers of dust-induced cellular responses.
+- Accepted by **Environmental Science & Technology (EST)**.
+
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP 2024</div><img src='images/DIRGEO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP 2024</div><img src='images/DIRGEO.png' alt="DirGeo-DTI" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enhancing Angular Resolution via Directionality Encoding and Geometric Constraints in Brain Diffusion Tensor Imaging](https://arxiv.org/pdf/2409.07186)
@@ -92,18 +102,19 @@ Siqi Sun, Yingying Sun, Andrew S. Kinsela, Yunyi Zhu, Nikky LaBranche, **Sheng C
 **Sheng Chen**, Zihao Tang, Mariano Cabezas, Xinyi Wang, Arkiev D’Souza, Michael Barnett, Fernando Calamante, Weidong Cai, and Chenyu Wang
 
 [**Project**](https://github.com/ShengAus/DirGeo_Net/tree/master)
-- Developed a deep learning method to estimate reliable diffusion tensor imaging metrics from only 6 diffusion gradient directions by integrating diffusion-gradient encoding and geometry-constrained learning.
-- More interpretable and reliable results through physical-informed deep learning methods.
-- Awarded as the **Best Student Paper** in ICONIP2024
-</div>
-</div>
 
-# 📖 Educations
-- *2013.07 - 2025.02*, Master of Philosophy, Machine Learning / Medical Computer Vision, University of Sydney
-- *2019.02 - 2023.02*, Bachelor of Advanced Computing (First Class Honours, WAM 80+), University of Sydney
+- Developed a deep learning method to estimate reliable diffusion tensor imaging metrics from only 6 diffusion gradient directions by integrating diffusion-gradient encoding and geometry-constrained learning.
+- Achieved more interpretable and reliable results through physically informed deep learning.
+- Awarded **Best Student Paper** at **ICONIP 2024**.
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2024.12* Best Student Paper in ICONIP 2024. 
-- *2023.1* First class honors in USYD
-- *2022,2023* Dean’s List in USYD for distinguished academic performance. 
+- *2024.12* — Best Student Paper, ICONIP 2024
+- *2023.01* — First Class Honours, University of Sydney
+- *2022, 2023* — Dean’s List, University of Sydney
 
+# 📖 Education
+- *2023.07 - 2025.02* — **Master of Philosophy**, Machine Learning / Medical Computer Vision, University of Sydney
+- *2019.02 - 2023.02* — **Bachelor of Advanced Computing** (First Class Honours, WAM 80+), University of Sydney
