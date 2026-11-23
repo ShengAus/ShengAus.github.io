@@ -33,6 +33,9 @@ Previously, I worked as a Machine Learning Developer at UNSW Sydney, applying ma
 - *2026.11* — Earned the **Databricks Certified Generative AI Engineer Associate** certification.
 - *2026.10* — Earned the **LangChain Certified Agent Engineer** certification.
 - *2026.05* — Joined **DataReady AI** as an AI Engineer.
+- *2026.03* — The RO performance projection software I helped develop received **software copyright registration** in China.
+- *2026.02* — Our study on stone-dust properties and lung-cell responses was published in **Environmental Science & Technology**. [Paper](https://pubs.acs.org/doi/abs/10.1021/acs.est.5c14999).
+- *2025.02* — Joined **UNSW Water Research Centre** as a **Machine Learning Developer**.
 - *2024.12* — Our DirGeo-DTI paper received **Best Student Paper** at **ICONIP 2024**.
 
 <span class='anchor' id='experience'></span>
@@ -133,7 +136,8 @@ Published in **Environmental Science & Technology**, 2026, 60(7), 5337–5349. A
 
 <span class='anchor' id='honors-and-awards'></span>
 
-# 🎖 Honors and Awards
+# 🎖 Achievements & Awards
+- **Software copyright registration — RO performance projection software**, March 2026 (2026SR0511888). Contributing developer; registration held by the company.
 - **Best Student Paper — ICONIP 2024**, DirGeo-DTI (first author).
 - **First Class Honours — University of Sydney**, Bachelor of Advanced Computing, 2023.
 
