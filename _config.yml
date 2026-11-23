@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sheng Chen"
-description              : "Focusing on real-world applications of machine learning and deep learning."
+description              : "AI Engineer building enterprise agents, tool integrations and workflow automation on Databricks and Snowflake."
 repository               : "ShengAus/ShengAus.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Sheng Chen"
   avatar           : "images/android-chrome-192x192.png"
-  bio              : "Machine Learning Developer"
+  bio              : "AI Engineer at DataReady AI"
   location         : "Sydney, Australia"
   employer         :
   pubmed           : 
